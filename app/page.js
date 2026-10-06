@@ -11,7 +11,7 @@ export default function Home() {
 
       <div className="home-buttons">
         <Link href="/customize" className="main-button">
-          Customize My Cake
+          Customize My Cak
         </Link>
 
         <Link href="/cakes" className="secondary-button">
